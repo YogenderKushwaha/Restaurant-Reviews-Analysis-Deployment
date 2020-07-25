@@ -7,6 +7,6 @@
 Deployed at: _https://restaurantreviews-analysis.herokuapp.com/_
 
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
-Link: _https://https://github.com/YogenderKushwaha/Restaurant-Reviews-Analysis-Deployment_
+Link: _https://github.com/YogenderKushwaha/Restaurant-Reviews-Analysis-Deployment_
 
 • Please do ⭐ the repository, if it helped you in anyway.
