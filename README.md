@@ -6,7 +6,6 @@
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://restaurantreviews-analysis.herokuapp.com/_
 
-• Connect with me on __LinkedIn__,:<br />
-Link: _https://www.linkedin.com/in/yogender-kushwaha/_
+• Connect with me on __LinkedIn__,:   _https://www.linkedin.com/in/yogender-kushwaha/_
 
 • Please do ⭐ the repository, if it helped you in anyway.
